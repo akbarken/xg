@@ -1,4 +1,2 @@
 xg
-==
-哈佛哈佛
-xg
+start my first open source project.
